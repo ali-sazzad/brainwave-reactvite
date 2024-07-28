@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/brainwave-reactvite/',
+  base: '/https://github.com/ali-sazzad/brainwave-reactvite/',
   plugins: [react()],
 })
