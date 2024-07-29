@@ -1,4 +1,5 @@
 # Brainwave-ReactVite
+![main-image](https://github.com/user-attachments/assets/673f35de-e043-4ad2-9a4b-ca09f2dc4d84)
 
 ## Overview
 Welcome to the Brainwave-ReactVite project! This is a modern, responsive, and user-friendly single-page application built using React and Vite. This project showcases essential React skills and demonstrates best practices for creating interactive and dynamic web applications.
