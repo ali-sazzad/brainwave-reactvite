@@ -30,14 +30,20 @@ To get a local copy up and running, follow these simple steps:
    ```bash
    npm run dev
 
-# Usage
+## Usage
 After running the application, you can view it in your browser at http://localhost:3000 or any specific host from your VS code editor. Explore the responsive design and interactive elements, and feel free to customize and enhance the project further.
 
-# Credits
+## Credits
 Special thanks to [JavaScript Mastery](https://www.youtube.com/@javascriptmastery) for the inspiring tutorials and valuable learning resources.
 
-# License
+## License
 This project is licensed under the MIT License.
 
-# Contributing
+## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or enhancements.
+
+## Contact Me
+- **Name:** <a href='https://www.alisazzad.com/' target='_blank'> Portfolio </a>
+- **Email:** <a href='mailto:find.sazzadali@gmail.com' target='_blank'> Email </a>
+- **GitHub:** <a href='https://github.com/ali-sazzad/' target='_blank'> @ali-sazzad </a>
+- **LinkedIn:** <a href='https://www.linkedin.com/in/sazzadali/' target='_blank'> @sazzadali </a>
